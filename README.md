@@ -4,7 +4,7 @@ Contains paradigms for Southern Kurdish (Kurdiy Xwarîn)
 
 ## Data
 
-Source:TBA
+Source: Data collection through native speakers
 
 ## Annotators
 Ali Salehi
